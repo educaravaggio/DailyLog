@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Daily Log - Day 90</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Oswald:700" rel="stylesheet">
+</head>
+<body>
+  <div class="day">
+  <h1 class="logTitle">Day 90 (12/Nov/18)</h1>
+  <p class="logBody logBodyDays">
+    Today I followed day 31 of CSS in 30 Days by Brad Hussey at <a href="https://codecollege.ca/">Code College</a>. We built a fun animated spinner, for loading pages.
+    <img src="imgs/90-1.PNG" alt=""><br>
+    I also read the first part of the <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md"> Chapter 5: Scope Closure of a You Don't Know JS: Scope & Closures</a> at Github.<br>
+    "Closures are functions that refer to independent (free) variables. In other words, the function defined in the closure 'remembers' the environment in which it was created."<br>
+    "Whenever you declare a function inside another function, the inside function(s) is/are recreated again each time the outside function is called." <br>
+    The above definitions <a href="https://www.youtube.com/watch?v=71AtaJpJHw0"> I took from a video by the techsith</a> channel at Youtube.<br>
+    I supplemented it by <a href="https://www.youtube.com/watch?v=-xqJo5VRP4A"> other video at the same channel</a>, <a href="https://www.youtube.com/watch?v=CQqwU2Ixu-U">one by Fun Fun Function</a> and <a href="https://www.youtube.com/watch?v=-jysK0nlz7A">other by The Coding Tech channel.</a> <br>
+    The best explanation I took from <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures">Mozilla Web Dev website:</a>
+    "In some programming languages, the local variables within a function exist only for the duration of that function's execution. Once 'makeFunc()' has finished executing, you might expect that the name variable would no longer be accessible. However, because the code still works as expected, this is obviously not the case in JavaScript."<br>
+
+    "The reason is that functions in JavaScript form closures. A closure is the combination of a function and the lexical environment within which that function was declared. This environment consists of any local variables that were in-scope at the time the closure was created. In this case, 'myFunc' is a reference to the instance of the function 'displayName' created when 'makeFunc' is run. The instance of 'displayName' maintains a reference to its lexical environment, within which the variable 'name' exists. For this reason, when 'myFunc' is invoked, the variable 'name' remains available for use and "Mozilla" is passed to 'alert'."
+    Each of them took a different approach to teach what closures are and I think I will need more time to fully understand it. I'll devote the next days to it again.
+    <img src="imgs/90-2.PNG" alt="">
+    <img src="imgs/90-3.PNG" alt="">
+    <img src="imgs/90-4.PNG" alt="">
+    <img src="imgs/90-5.PNG" alt="">
+
+  </p>
+</div>
+</body>
+</html>
