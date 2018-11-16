@@ -1,0 +1,8 @@
+Today I followed the FreeCodeCamp.org lessons for ES6 especification.
+Starting with Arrow Functions to write shorter anonymous Functions. It's hard to grasp its concepts as it is not as clear.
+
+The next lessons were about Higher Order Arrow Functions, that use arrow methods, like map(), filter(), reduce(), etc. I had to watch some Youtube videos to understand it better and read documentation at Mozilla web docs.
+The first video by the channel The Coding Train was more general (https://www.youtube.com/watch?v=H4awPsyugS0). I next watched the video about the map() and fill() (https://www.youtube.com/watch?v=EnYlhbpzhU4) and another one only about filter() (https://www.youtube.com/watch?v=qmnH5MT_luk) on the same channel.
+map() creates an array based on the result of calling a function for every element of other array.
+filter() creates another array based on the parameters to filter the items.
+The following lessons were of Rest and Spread parameters used to destructure a function. Both can be used to copy items from a variable array in length. Which means, you don't need to hard code the amount of items. I watched two excellent Youtube videos about it on the freeCodeCamp channel. The lessons were given by Beau. Video on Rest and Spread operators (https://www.youtube.com/watch?v=iLx4ma8ZqvQ) and one about Destructuring (https://www.youtube.com/watch?v=-vR3a11Wzt0).

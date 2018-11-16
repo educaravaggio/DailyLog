@@ -1,0 +1,8 @@
+Getters and Setters
+Programming with Mosh: https://www.youtube.com/watch?v=bl98dm7vJt0
+
+// getters => used to access properties
+// setters => change (mutate) properties
+
+Export/import
+by Beau (FFC channel): https://www.youtube.com/watch?v=Jqn_wjkSZwo

@@ -1,3 +1,5 @@
+/* codes for learning, not used on the pages */
+
 // Day 21 of CSS in 30 Days, we built an animated spinner for loading pages
 
 
