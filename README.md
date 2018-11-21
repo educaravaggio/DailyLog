@@ -6,4 +6,4 @@ I try to tweet about my progress daily but it is hard to really understand from 
 Inspired by [Arron Kennedy] (https://twitter.com/azathecoder) and [Audrey Delgado] (https://twitter.com/Audrey_Lin_D), I've decided to log more in depth my daily tech routine.
  
 ###DailyLog
-I have created a central github page with links to my [daily activities:] (http://www.link).
+I have created a central github page with links to my [daily activities:] (https://educaravaggio.github.io/DailyLog/).
